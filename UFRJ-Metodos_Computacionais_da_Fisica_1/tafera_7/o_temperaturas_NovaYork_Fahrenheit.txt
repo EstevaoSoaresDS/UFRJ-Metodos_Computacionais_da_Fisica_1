@@ -1,0 +1,15 @@
+# https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Tabela_clim%C3%A1tica_de_Nova_Iorque
+# Temperaturas medias em Nova York em cada mes e anual em graus Fahrenheit
+Janeiro    32.5 
+Fevereiro  35.2 
+Marco      42.4 
+Abril      53.1 
+Maio       62.4 
+Junho      71.4 
+Julho      76.5 
+Agosto     75.2 
+Setembro   68.0 
+Outubro    56.8 
+Novembro   47.7 
+Dezembro   37.6 
+Ano        55.0 
